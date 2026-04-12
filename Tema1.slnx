@@ -1,8 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="ARM64" />
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Tema1.vcxproj" Id="d7fdfe65-1b19-4fe4-a440-8ee0bb738f00" />
-</Solution>
